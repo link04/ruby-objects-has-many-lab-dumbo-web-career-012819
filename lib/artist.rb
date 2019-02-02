@@ -1,3 +1,4 @@
+requiere 'pry'
 class Artist 
   attr_accessor :name
   
